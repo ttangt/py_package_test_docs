@@ -9,8 +9,8 @@ We build a very simple python package to calculate the sum value of a array plus
 
 ## Demonstration
 
-- [timsingsing-py-package-test](https://test.pypi.org/project/timsingsing-py-package-test/)
-- [timsingsing-py-package-test-docs](./html/index.html)
+- [Install Python Package](https://test.pypi.org/project/timsingsing-py-package-test/)
+- [Sphinx-generated HTML](./html/index.html)
 
 ## Reference
 
