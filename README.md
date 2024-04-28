@@ -11,6 +11,7 @@ We build a very simple python package to calculate the sum value of a array plus
 
 - [Install Python Package](https://test.pypi.org/project/timsingsing-py-package-test/)
 - [Sphinx-generated HTML](./html/index.html)
+- ![Sphinx-generated HTML](./API_doc.png)
 
 ## Reference
 
