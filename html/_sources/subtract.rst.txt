@@ -1,0 +1,21 @@
+subtract package
+================
+
+Submodules
+----------
+
+subtract.subtract module
+------------------------
+
+.. automodule:: subtract.subtract
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: subtract
+   :members:
+   :undoc-members:
+   :show-inheritance:
